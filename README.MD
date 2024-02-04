@@ -17,7 +17,13 @@ https://code.visualstudio.com/
 
 4- instalar algumas extensões como: Jupyter e Python 
 
-5- execute o arquivo com final .ipynb
+5- execute o arquivo com final .ipynb, tenha certeza que a venv está como o kernel, 
+para mas informações https://docs.python.org/3/library/venv.html
+
+para ativar a venv no git bash
+```
+. ./venv/Scripts/activate
+```
 
 OBS:
 para a parte de EDA -> SWEETVIZ_REPORT
